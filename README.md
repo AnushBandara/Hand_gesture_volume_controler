@@ -16,7 +16,3 @@ This is just the beginning, and I’m excited to keep exploring how AI, CV, and 
 💡 If anyone is working on VR/AR, gesture-based UI, or human-computer interaction, I’d love to connect and hear your thoughts!
 
 #ComputerVision #OpenCV #MediaPipe #AI #MachineLearning #GestureRecognition #VR #Innovation
-
-⸻
-
-Do you want me to also draft a shorter, more casual version (like a personal milestone update) that feels less technical and more celebratory for your network?
