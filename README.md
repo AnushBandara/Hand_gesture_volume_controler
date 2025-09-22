@@ -1,4 +1,4 @@
-My first computer vision project – HandVolumeControler.py! 🎉
+# My first computer vision project – HandVolumeControler.py! 🎉
 
 Libraries : cv2, mediapipe, osascript, numpy, time, math, 
 
