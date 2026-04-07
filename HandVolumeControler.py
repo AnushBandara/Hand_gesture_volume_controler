@@ -5,6 +5,8 @@ import time
 import math
 import osascript
 
+#just add a normal comment
+
 cap = cv2.VideoCapture(0)
 pTime = 0  # For Print the fps
 precentage = 0
